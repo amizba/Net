@@ -1,0 +1,13 @@
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\bin\Debug\CrearPDF.exe.config
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\bin\Debug\CrearPDF.exe
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\bin\Debug\CrearPDF.pdb
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\bin\Debug\CrearPDF.xml
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.Form1.resources
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.Resources.resources
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.exe
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.xml
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.pdb
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\obj\Debug\CrearPDF.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\bin\Debug\itextsharp.dll
+C:\Users\user\Documents\ActividadesVB\CrearPDF\CrearPDF\bin\Debug\itextsharp.pdfa.dll

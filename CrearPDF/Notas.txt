@@ -1,0 +1,4 @@
+* Aplicación con .Net que te crea automáticamente un PDF
+* Autor: Amparo Izquierdo Bañez
+* Email: amizba@gmail.com
+
