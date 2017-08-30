@@ -1,0 +1,14 @@
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.exe.config
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.exe
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.pdb
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.xml
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.EliminarRegistro.resources
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.InsertarRegistro.resources
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.ListarRegistro.resources
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.ModificarRegistro.resources
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.Principal.resources
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.Resources.resources
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.exe
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.xml
+C:\Users\user\Documents\ActividadesVB\Proyecto Ejemplo\ProyectoEjemplo\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.pdb

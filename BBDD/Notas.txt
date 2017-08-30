@@ -1,0 +1,6 @@
+* Conexión a base de datos Access. Insertar, modificar y eliminar registros
+* Autor: Amparo Izquierdo 
+* Email: amizba@gmail.com
+*
+*
+*
